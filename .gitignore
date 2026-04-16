@@ -1,0 +1,13 @@
+# Environments
+.env
+.env/
+.envrc
+.venv
+.venv/
+env/
+venv/
+
+
+# Python
+__pycache__/
+*.pyc
