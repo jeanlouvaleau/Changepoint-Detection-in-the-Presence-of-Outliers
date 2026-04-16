@@ -32,12 +32,14 @@ The analysis is performed on two types of datasets:
 The results of our experiments are available in the "final_notebook.ipynb" notebook. A detailed analysis is also available in the "Report of the project.pdf" file.
 
 ### Requirements
-Python 3.x
-
-numpy
-
-pandas
-
-matplotlib
-
-statsmodels
+black==25.1.0
+matplotlib==3.10.1
+numpy==2.2.4
+pandas==2.2.3
+pylint==4.0.5
+pytest==8.3.5
+ruff==0.11.2
+scikit-learn==1.6.1
+scipy==1.15.2
+statsmodels==0.14.4
+tqdm==4.67.1
